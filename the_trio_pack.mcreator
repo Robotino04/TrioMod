@@ -63,6 +63,14 @@
           }
         ]
       }
+    },
+    {
+      "name": "Triomobs",
+      "type": "tab",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "triomobs"
     }
   ],
   "variable_elements": [],
@@ -70,6 +78,7 @@
   "language_map": {
     "en_us": {
       "itemGroup.tabtrio_items": "Trio Items",
+      "itemGroup.tabtriomobs": "Triomobs",
       "itemGroup.tabtrio_tools": "Trio Tools",
       "item.the_trio_pack.red_amethyst_shard": "Red Amethyst Shard"
     }
