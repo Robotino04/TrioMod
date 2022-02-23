@@ -1,0 +1,7 @@
+{
+  "parent": "the_trio_pack:custom/lightsaber",
+  "textures": {
+    "0": "the_trio_pack:blocks/texture",
+    "particle": "the_trio_pack:items/texture"
+  }
+}

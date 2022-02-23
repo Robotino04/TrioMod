@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "the_trio_pack:red_amethyst_shard"
+    },
+    "1": {
+      "item": "the_trio_pack:red_amethyst_shard"
+    },
+    "2": {
+      "item": "the_trio_pack:metalstick"
+    }
+  },
+  "result": {
+    "item": "the_trio_pack:redlightsaber",
+    "count": 1
+  }
+}
