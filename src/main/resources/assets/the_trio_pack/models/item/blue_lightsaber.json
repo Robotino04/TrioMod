@@ -1,7 +1,7 @@
 {
-  "parent": "the_trio_pack:custom/lightsaber",
+  "parent": "the_trio_pack:custom/bluelightsaber",
   "textures": {
-    "0": "the_trio_pack:blocks/texture",
-    "particle": "the_trio_pack:items/blue_lightsaber"
+    "0": "the_trio_pack:blocks/blue_lightsaber",
+    "particle": "the_trio_pack:items/blue_amethyst_shard"
   }
 }

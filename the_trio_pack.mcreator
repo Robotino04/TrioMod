@@ -77,14 +77,6 @@
       "registry_name": "triomobs"
     },
     {
-      "name": "Redlightsaber",
-      "type": "item",
-      "sortid": 7,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "redlightsaber"
-    },
-    {
       "name": "Metalstick",
       "type": "item",
       "sortid": 8,
@@ -107,14 +99,6 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "metalstockrecipe"
-    },
-    {
-      "name": "BlueLightsaber",
-      "type": "item",
-      "sortid": 11,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "blue_lightsaber"
     },
     {
       "name": "BlueAmethystShard",
@@ -141,14 +125,6 @@
       "registry_name": "trioores"
     },
     {
-      "name": "Therolling",
-      "type": "musicdisc",
-      "sortid": 12,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "therolling"
-    },
-    {
       "name": "KfcFoodEaten",
       "type": "procedure",
       "sortid": 13,
@@ -173,34 +149,37 @@
       "registry_name": "kfc"
     },
     {
-      "name": "Redlightsaberworking",
+      "name": "RedLightsaber",
       "type": "tool",
-      "sortid": 11,
+      "sortid": 14,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "redlightsaberworking"
+      "registry_name": "red_lightsaber"
+    },
+    {
+      "name": "BlueLightsaber",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_lightsaber"
     }
   ],
   "variable_elements": [],
-  "sound_elements": [
-    {
-      "name": "theforbiddenrole",
-      "files": [
-        "never_gonna_give_you_up_original"
-      ],
-      "category": "music",
-      "subtitle": "Rick rolled"
-    }
-  ],
+  "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.the_trio_pack.redlightsaber": "Red Lightsaber",
       "itemGroup.tabtriomobs": "Triomobs",
       "itemGroup.tabtrio_items": "Trio Items",
       "item.the_trio_pack.metalstick": "Metalstick",
       "itemGroup.tabtrio_tools": "Trio Tools",
+      "itemGroup.tabtrioores": "Trioores",
       "item.the_trio_pack.red_amethyst_shard": "Red Amethyst Shard",
-      "subtitles.theforbiddenrole": "Rick rolled"
+      "item.the_trio_pack.kfc": "KFC fries",
+      "subtitles.theforbiddenrole": "Rick rolled",
+      "item.the_trio_pack.blue_lightsaber": "Blue Lightsaber",
+      "item.the_trio_pack.blue_amethyst_shard": "Blue Amethyst Shard",
+      "item.the_trio_pack.red_lightsaber": "Red Lightsaber"
     }
   },
   "foldersRoot": {

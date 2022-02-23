@@ -1,36 +1,27 @@
 {
   "_fv": 24,
-  "_type": "item",
+  "_type": "tool",
   "definition": {
     "renderType": 1,
-    "texture": "blue_lightsaber",
-    "customModelName": "lightsaber:default",
+    "texture": "blue_amethyst_shard",
+    "customModelName": "bluelightsaber:default",
     "name": "Blue Lightsaber",
-    "rarity": "EPIC",
+    "specialInfo": [],
     "creativeTab": {
-      "value": "CUSTOM:TrioItems"
+      "value": "CUSTOM:TrioTools"
     },
-    "stackSize": 1,
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
     "enchantability": 2,
-    "useDuration": 0,
-    "toolType": 1.0,
-    "damageCount": 0,
-    "recipeRemainder": {
-      "value": ""
-    },
-    "destroyAnyBlock": false,
-    "immuneToFire": true,
-    "stayInGridWhenCrafting": false,
-    "damageOnCrafting": false,
-    "enableMeleeDamage": true,
     "damageVsEntity": 8.0,
-    "specialInfo": [
-      "The Red lightsaber is forged with an Eldrich ore. Powerful as a such.May the force be with you."
-    ],
+    "usageCount": 1000,
+    "blocksAffected": [],
     "hasGlow": false,
-    "guiBoundTo": "<NONE>",
-    "inventorySize": 9,
-    "inventoryStackSize": 64,
-    "hasDispenseBehavior": false
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
   }
 }
