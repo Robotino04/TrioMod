@@ -103,6 +103,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "metalstockrecipe"
+    },
+    {
+      "name": "Trioores",
+      "type": "tab",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "trioores"
     }
   ],
   "variable_elements": [],
@@ -114,6 +122,7 @@
       "item.the_trio_pack.redlightsaber": "Red Lightsaber",
       "item.the_trio_pack.metalstick": "Metalstick",
       "itemGroup.tabtrio_tools": "Trio Tools",
+      "itemGroup.tabtrioores": "Trioores",
       "item.the_trio_pack.red_amethyst_shard": "Red Amethyst Shard"
     }
   },
