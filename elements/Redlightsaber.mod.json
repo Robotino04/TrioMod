@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 1,
-    "texture": "texture",
+    "texture": "red_light_saber",
     "customModelName": "lightsaber:default",
     "name": "Red Lightsaber",
     "rarity": "EPIC",
