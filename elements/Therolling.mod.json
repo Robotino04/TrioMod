@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "frobiddendisc",
+    "name": "Therolling",
+    "description": "DONT",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:theforbiddenrole"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}
