@@ -46,6 +46,10 @@
             "type": "entity"
           },
           {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
             "name": "x",
             "type": "number"
           },
@@ -103,6 +107,30 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "metalstockrecipe"
+    },
+    {
+      "name": "BlueAmethystShard",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_amethyst_shard"
+    },
+    {
+      "name": "BlueLightsaber",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_lightsaber"
+    },
+    {
+      "name": "BlueLightsaberRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_lightsaber_recipe"
     }
   ],
   "variable_elements": [],
@@ -114,7 +142,9 @@
       "item.the_trio_pack.redlightsaber": "Red Lightsaber",
       "item.the_trio_pack.metalstick": "Metalstick",
       "itemGroup.tabtrio_tools": "Trio Tools",
-      "item.the_trio_pack.red_amethyst_shard": "Red Amethyst Shard"
+      "item.the_trio_pack.blue_amethyst_shard": "Blue Amethyst Shard",
+      "item.the_trio_pack.red_amethyst_shard": "Red Amethyst Shard",
+      "item.the_trio_pack.blue_lightsaber": "Blue Lightsaber"
     }
   },
   "foldersRoot": {

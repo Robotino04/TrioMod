@@ -10,10 +10,10 @@ import net.minecraft.world.InteractionResult;
 import net.mcreator.thetriopack.procedures.AmethystShardRightClickedOnBlockProcedure;
 import net.mcreator.thetriopack.init.TheTrioPackModTabs;
 
-public class RedAmethystShardItem extends Item {
-	public RedAmethystShardItem() {
+public class BlueAmethystShardItem extends Item {
+	public BlueAmethystShardItem() {
 		super(new Item.Properties().tab(TheTrioPackModTabs.TAB_TRIO_ITEMS).stacksTo(64).rarity(Rarity.COMMON));
-		setRegistryName("red_amethyst_shard");
+		setRegistryName("blue_amethyst_shard");
 	}
 
 	@Override
