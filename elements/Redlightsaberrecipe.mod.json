@@ -38,7 +38,7 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:Redlightsaber"
+      "value": "CUSTOM:Redlightsaberworking"
     },
     "name": "redlightsaberrecipe",
     "namespace": "mod"
