@@ -14,7 +14,7 @@
     "enchantability": 2,
     "useDuration": 0,
     "toolType": 1.0,
-    "damageCount": 8,
+    "damageCount": 0,
     "recipeRemainder": {
       "value": ""
     },
@@ -23,7 +23,7 @@
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false,
     "enableMeleeDamage": true,
-    "damageVsEntity": 1.0,
+    "damageVsEntity": 8.0,
     "specialInfo": [
       "The Red lightsaber is forged with an Eldrich ore. Powerful as a such.May the force be with you."
     ],
