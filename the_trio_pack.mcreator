@@ -1,9 +1,78 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "TrioTools",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "trio_tools"
+    },
+    {
+      "name": "TrioItems",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "trio_items"
+    },
+    {
+      "name": "RedAmethystShard",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_amethyst_shard"
+    },
+    {
+      "name": "RedAmethystShardRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_amethyst_shard_recipe"
+    },
+    {
+      "name": "AmethystShardRightClickedOnBlock",
+      "type": "procedure",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_shard_right_clicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "itemGroup.tabtrio_items": "Trio Items",
+      "itemGroup.tabtrio_tools": "Trio Tools",
+      "item.the_trio_pack.red_amethyst_shard": "Red Amethyst Shard"
+    }
   },
   "foldersRoot": {
     "name": "~",

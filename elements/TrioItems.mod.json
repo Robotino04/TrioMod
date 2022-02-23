@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Trio Items",
+    "icon": {
+      "value": "CUSTOM:RedAmethystShard"
+    },
+    "showSearch": false
+  }
+}

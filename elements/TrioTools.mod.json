@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Trio Tools",
+    "icon": {
+      "value": "Items.DIAMOND_PICKAXE"
+    },
+    "showSearch": false
+  }
+}
