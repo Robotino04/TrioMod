@@ -71,6 +71,38 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "triomobs"
+    },
+    {
+      "name": "Redlightsaber",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redlightsaber"
+    },
+    {
+      "name": "Metalstick",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metalstick"
+    },
+    {
+      "name": "Redlightsaberrecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redlightsaberrecipe"
+    },
+    {
+      "name": "Metalstockrecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metalstockrecipe"
     }
   ],
   "variable_elements": [],
@@ -79,6 +111,8 @@
     "en_us": {
       "itemGroup.tabtrio_items": "Trio Items",
       "itemGroup.tabtriomobs": "Triomobs",
+      "item.the_trio_pack.redlightsaber": "Red Lightsaber",
+      "item.the_trio_pack.metalstick": "Metalstick",
       "itemGroup.tabtrio_tools": "Trio Tools",
       "item.the_trio_pack.red_amethyst_shard": "Red Amethyst Shard"
     }
