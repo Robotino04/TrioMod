@@ -1,0 +1,12 @@
+{
+  "theforbiddenrole": {
+    "category": "music",
+    "subtitle": "subtitles.theforbiddenrole",
+    "sounds": [
+      {
+        "name": "the_trio_pack:never_gonna_give_you_up_original",
+        "stream": true
+      }
+    ]
+  }
+}

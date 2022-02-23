@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "kfc_pommes",
+    "customModelName": "Normal",
+    "name": "KFC fries",
+    "rarity": "RARE",
+    "specialInfo": [
+      "Its a delicious treat"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:TrioItems"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 6,
+    "saturation": 2.0,
+    "eatingSpeed": 50,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": true,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "KfcFoodEaten"
+    }
+  }
+}
