@@ -203,6 +203,54 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "ketchup"
+    },
+    {
+      "name": "Ketchuprecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ketchuprecipe"
+    },
+    {
+      "name": "Cutpotato",
+      "type": "item",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cutpotato"
+    },
+    {
+      "name": "Cutpotatoerecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cutpotatoerecipe"
+    },
+    {
+      "name": "Friesrecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "friesrecipe"
+    },
+    {
+      "name": "Kfcfriesrecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kfcfriesrecipe"
+    },
+    {
+      "name": "Paperbucketrecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "paperbucketrecipe"
     }
   ],
   "variable_elements": [],
@@ -225,6 +273,7 @@
       "item.the_trio_pack.ketchup": "Ketchup",
       "item.the_trio_pack.blue_amethyst_shard": "Blue Amethyst Shard",
       "item.the_trio_pack.red_lightsaber": "Red Lightsaber",
+      "item.the_trio_pack.cutpotato": "Cutpotato",
       "item.the_trio_pack.therolling": "Therolling",
       "item.the_trio_pack.redlightsaberworking": "Redlightsaberworking"
     }

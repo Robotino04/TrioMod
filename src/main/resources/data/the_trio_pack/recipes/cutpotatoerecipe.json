@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:baked_potato"
+  },
+  "result": "the_trio_pack:cutpotato"
+}

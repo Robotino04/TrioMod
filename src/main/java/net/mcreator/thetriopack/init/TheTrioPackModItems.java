@@ -17,6 +17,7 @@ import net.mcreator.thetriopack.item.KfcfrieItem;
 import net.mcreator.thetriopack.item.KfcbucketItem;
 import net.mcreator.thetriopack.item.KfcItem;
 import net.mcreator.thetriopack.item.KetchupItem;
+import net.mcreator.thetriopack.item.CutpotatoItem;
 import net.mcreator.thetriopack.item.BlueLightsaberItem;
 import net.mcreator.thetriopack.item.BlueAmethystShardItem;
 
@@ -35,6 +36,7 @@ public class TheTrioPackModItems {
 	public static final Item KFCBUCKET = register(new KfcbucketItem());
 	public static final Item KFCFRIE = register(new KfcfrieItem());
 	public static final Item KETCHUP = register(new KetchupItem());
+	public static final Item CUTPOTATO = register(new CutpotatoItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

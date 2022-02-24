@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "the_trio_pack:ketchup"
+    },
+    "1": {
+      "item": "the_trio_pack:kfcfrie"
+    },
+    "2": {
+      "item": "the_trio_pack:kfcfrie"
+    },
+    "4": {
+      "item": "the_trio_pack:kfcbucket"
+    }
+  },
+  "result": {
+    "item": "the_trio_pack:kfc",
+    "count": 1
+  }
+}

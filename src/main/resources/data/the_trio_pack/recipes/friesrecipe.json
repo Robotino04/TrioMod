@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "the_trio_pack:cutpotato"
+  },
+  "result": {
+    "item": "the_trio_pack:kfcfrie"
+  }
+}

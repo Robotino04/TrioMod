@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:apple"
+    },
+    "1": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item": "the_trio_pack:ketchup",
+    "count": 1
+  }
+}
