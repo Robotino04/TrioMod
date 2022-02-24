@@ -25,7 +25,7 @@ public class RedAmethystShardItem extends Item {
 	public InteractionResult useOn(UseOnContext context) {
 		InteractionResult retval = super.useOn(context);
 		AmethystShardRightClickedOnBlockProcedure.execute(context.getLevel(), context.getClickedPos().getX(), context.getClickedPos().getY(),
-				context.getClickedPos().getZ(), context.getPlayer(), context.getItemInHand());
+				context.getClickedPos().getZ(), context.getPlayer());
 		return retval;
 	}
 }
