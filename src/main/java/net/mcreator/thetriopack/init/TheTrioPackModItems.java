@@ -10,6 +10,7 @@ import net.minecraftforge.event.RegistryEvent;
 
 import net.minecraft.world.item.Item;
 
+import net.mcreator.thetriopack.item.RedLightsaberItem;
 import net.mcreator.thetriopack.item.RedAmethystShardItem;
 import net.mcreator.thetriopack.item.MetalstickItem;
 import net.mcreator.thetriopack.item.KfcItem;
@@ -27,6 +28,7 @@ public class TheTrioPackModItems {
 	public static final Item BLUE_AMETHYST_SHARD = register(new BlueAmethystShardItem());
 	public static final Item KFC = register(new KfcItem());
 	public static final Item BLUE_LIGHTSABER = register(new BlueLightsaberItem());
+	public static final Item RED_LIGHTSABER = register(new RedLightsaberItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

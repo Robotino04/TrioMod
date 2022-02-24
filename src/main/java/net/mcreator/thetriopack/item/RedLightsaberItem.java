@@ -8,8 +8,8 @@ import net.minecraft.world.item.Item;
 
 import net.mcreator.thetriopack.init.TheTrioPackModTabs;
 
-public class BlueLightsaberItem extends SwordItem {
-	public BlueLightsaberItem() {
+public class RedLightsaberItem extends SwordItem {
+	public RedLightsaberItem() {
 		super(new Tier() {
 			public int getUses() {
 				return 1000;
@@ -35,6 +35,6 @@ public class BlueLightsaberItem extends SwordItem {
 				return Ingredient.EMPTY;
 			}
 		}, 3, -3f, new Item.Properties().tab(TheTrioPackModTabs.TAB_TRIO_TOOLS));
-		setRegistryName("blue_lightsaber");
+		setRegistryName("red_lightsaber");
 	}
 }
