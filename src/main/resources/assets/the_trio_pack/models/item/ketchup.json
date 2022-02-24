@@ -1,0 +1,7 @@
+{
+  "parent": "the_trio_pack:custom/ketchup",
+  "textures": {
+    "0": "the_trio_pack:blocks/ketschup",
+    "particle": "the_trio_pack:items/ketchuptexture"
+  }
+}

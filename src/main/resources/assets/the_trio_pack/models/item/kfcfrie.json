@@ -1,0 +1,7 @@
+{
+  "parent": "the_trio_pack:custom/kfc_fries",
+  "textures": {
+    "0": "the_trio_pack:blocks/fries_texture",
+    "particle": "the_trio_pack:items/kfc_pommes"
+  }
+}

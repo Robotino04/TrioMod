@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 1,
+    "texture": "ketchuptexture",
+    "customModelName": "ketchup:default",
+    "name": "Ketchup",
+    "rarity": "COMMON",
+    "specialInfo": [
+      "The redness is yours"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:TrioItems"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 4,
+    "saturation": 2.0,
+    "eatingSpeed": 40,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "drink",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "KetchupFoodEaten"
+    }
+  }
+}

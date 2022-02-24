@@ -13,7 +13,10 @@ import net.minecraft.world.item.Item;
 import net.mcreator.thetriopack.item.RedLightsaberItem;
 import net.mcreator.thetriopack.item.RedAmethystShardItem;
 import net.mcreator.thetriopack.item.MetalstickItem;
+import net.mcreator.thetriopack.item.KfcfrieItem;
+import net.mcreator.thetriopack.item.KfcbucketItem;
 import net.mcreator.thetriopack.item.KfcItem;
+import net.mcreator.thetriopack.item.KetchupItem;
 import net.mcreator.thetriopack.item.BlueLightsaberItem;
 import net.mcreator.thetriopack.item.BlueAmethystShardItem;
 
@@ -29,6 +32,9 @@ public class TheTrioPackModItems {
 	public static final Item KFC = register(new KfcItem());
 	public static final Item BLUE_LIGHTSABER = register(new BlueLightsaberItem());
 	public static final Item RED_LIGHTSABER = register(new RedLightsaberItem());
+	public static final Item KFCBUCKET = register(new KfcbucketItem());
+	public static final Item KFCFRIE = register(new KfcfrieItem());
+	public static final Item KETCHUP = register(new KetchupItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

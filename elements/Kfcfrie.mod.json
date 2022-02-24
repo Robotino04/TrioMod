@@ -1,0 +1,28 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 1,
+    "texture": "kfc_pommes",
+    "customModelName": "kfc_fries:default",
+    "name": "Kfcfrie",
+    "rarity": "COMMON",
+    "specialInfo": [
+      "One single frie"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:TrioItems"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 2,
+    "saturation": 0.5,
+    "eatingSpeed": 20,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}
