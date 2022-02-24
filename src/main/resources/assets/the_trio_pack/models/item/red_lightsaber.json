@@ -1,7 +1,0 @@
-{
-  "parent": "the_trio_pack:custom/redlightsaber",
-  "textures": {
-    "0": "the_trio_pack:blocks/red_lightsaber",
-    "particle": "the_trio_pack:items/red_amethyst_shard"
-  }
-}

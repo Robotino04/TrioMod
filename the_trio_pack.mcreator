@@ -149,14 +149,6 @@
       "registry_name": "kfc"
     },
     {
-      "name": "RedLightsaber",
-      "type": "tool",
-      "sortid": 14,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "red_lightsaber"
-    },
-    {
       "name": "BlueLightsaber",
       "type": "tool",
       "sortid": 15,
@@ -175,7 +167,6 @@
       "itemGroup.tabtrio_tools": "Trio Tools",
       "itemGroup.tabtrioores": "Trioores",
       "item.the_trio_pack.blue_amethyst_shard": "Blue Amethyst Shard",
-      "item.the_trio_pack.red_lightsaber": "Red Lightsaber",
       "item.the_trio_pack.red_amethyst_shard": "Red Amethyst Shard",
       "item.the_trio_pack.kfc": "KFC fries",
       "subtitles.theforbiddenrole": "Rick rolled",

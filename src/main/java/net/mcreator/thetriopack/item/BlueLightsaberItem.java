@@ -1,7 +1,12 @@
 
 package net.mcreator.thetriopack.item;
 
-import net.minecraft.world.entity.ai.attributes.Attributes;
+import net.minecraft.world.item.crafting.Ingredient;
+import net.minecraft.world.item.Tier;
+import net.minecraft.world.item.SwordItem;
+import net.minecraft.world.item.Item;
+
+import net.mcreator.thetriopack.init.TheTrioPackModTabs;
 
 public class BlueLightsaberItem extends SwordItem {
 	public BlueLightsaberItem() {
@@ -29,13 +34,7 @@ public class BlueLightsaberItem extends SwordItem {
 			public Ingredient getRepairIngredient() {
 				return Ingredient.EMPTY;
 			}
-		},
-
-				3, -3f,
-
-				new Item.Properties().tab(TheTrioPackModTabs.TAB_TRIO_TOOLS));
-
+		}, 3, -3f, new Item.Properties().tab(TheTrioPackModTabs.TAB_TRIO_TOOLS));
 		setRegistryName("blue_lightsaber");
 	}
-
 }
