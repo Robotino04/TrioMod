@@ -13,7 +13,7 @@
         "value": ""
       },
       {
-        "value": "CUSTOM:RedAmethystShard"
+        "value": "CUSTOM:BlueAmethystShard"
       },
       {
         "value": ""
@@ -22,7 +22,7 @@
         "value": ""
       },
       {
-        "value": "CUSTOM:RedAmethystShard"
+        "value": "CUSTOM:BlueAmethystShard"
       },
       {
         "value": ""
@@ -38,9 +38,9 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:RedLightsaber"
+      "value": "CUSTOM:BlueLightsaber"
     },
-    "name": "redlightsaberrecipe",
+    "name": "blue_lightsaber_recipe",
     "namespace": "mod"
   }
 }

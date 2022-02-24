@@ -10,12 +10,11 @@ import net.minecraftforge.event.RegistryEvent;
 
 import net.minecraft.world.item.Item;
 
-import net.mcreator.thetriopack.item.TherollingItem;
-import net.mcreator.thetriopack.item.RedlightsaberworkingItem;
-import net.mcreator.thetriopack.item.RedlightsaberItem;
 import net.mcreator.thetriopack.item.RedAmethystShardItem;
 import net.mcreator.thetriopack.item.MetalstickItem;
 import net.mcreator.thetriopack.item.KfcItem;
+import net.mcreator.thetriopack.item.BlueLightsaberItem;
+import net.mcreator.thetriopack.item.BlueAmethystShardItem;
 
 import java.util.List;
 import java.util.ArrayList;
@@ -24,11 +23,10 @@ import java.util.ArrayList;
 public class TheTrioPackModItems {
 	private static final List<Item> REGISTRY = new ArrayList<>();
 	public static final Item RED_AMETHYST_SHARD = register(new RedAmethystShardItem());
-	public static final Item REDLIGHTSABER = register(new RedlightsaberItem());
 	public static final Item METALSTICK = register(new MetalstickItem());
-	public static final Item REDLIGHTSABERWORKING = register(new RedlightsaberworkingItem());
-	public static final Item THEROLLING = register(new TherollingItem());
+	public static final Item BLUE_AMETHYST_SHARD = register(new BlueAmethystShardItem());
 	public static final Item KFC = register(new KfcItem());
+	public static final Item BLUE_LIGHTSABER = register(new BlueLightsaberItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);
