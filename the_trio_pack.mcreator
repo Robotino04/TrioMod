@@ -20,7 +20,7 @@
       "name": "RedAmethystShard",
       "type": "item",
       "sortid": 3,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "red_amethyst_shard"
     },
