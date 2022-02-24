@@ -174,12 +174,12 @@
       "item.the_trio_pack.metalstick": "Metalstick",
       "itemGroup.tabtrio_tools": "Trio Tools",
       "itemGroup.tabtrioores": "Trioores",
+      "item.the_trio_pack.blue_amethyst_shard": "Blue Amethyst Shard",
+      "item.the_trio_pack.red_lightsaber": "Red Lightsaber",
       "item.the_trio_pack.red_amethyst_shard": "Red Amethyst Shard",
       "item.the_trio_pack.kfc": "KFC fries",
       "subtitles.theforbiddenrole": "Rick rolled",
-      "item.the_trio_pack.blue_lightsaber": "Blue Lightsaber",
-      "item.the_trio_pack.blue_amethyst_shard": "Blue Amethyst Shard",
-      "item.the_trio_pack.red_lightsaber": "Red Lightsaber"
+      "item.the_trio_pack.blue_lightsaber": "Blue Lightsaber"
     }
   },
   "foldersRoot": {
