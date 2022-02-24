@@ -251,6 +251,54 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "paperbucketrecipe"
+    },
+    {
+      "name": "Thewow",
+      "type": "achievement",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thewow"
+    },
+    {
+      "name": "TheMemeCommandExecuted",
+      "type": "procedure",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_meme_command_executed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TheMeme",
+      "type": "command",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_meme"
     }
   ],
   "variable_elements": [],
@@ -274,8 +322,10 @@
       "item.the_trio_pack.blue_amethyst_shard": "Blue Amethyst Shard",
       "item.the_trio_pack.red_lightsaber": "Red Lightsaber",
       "item.the_trio_pack.cutpotato": "Cutpotato",
+      "advancements.thewow.descr": "Are you proud",
       "item.the_trio_pack.therolling": "Therolling",
-      "item.the_trio_pack.redlightsaberworking": "Redlightsaberworking"
+      "item.the_trio_pack.redlightsaberworking": "Redlightsaberworking",
+      "advancements.thewow.title": "Wow you did it ._."
     }
   },
   "foldersRoot": {

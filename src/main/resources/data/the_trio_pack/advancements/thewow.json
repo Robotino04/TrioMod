@@ -1,0 +1,23 @@
+{
+  "display": {
+    "background": "the_trio_pack:textures/stickbug.png",
+    "icon": {
+      "item": "minecraft:air"
+    },
+    "title": {
+      "translate": "advancements.thewow.title"
+    },
+    "description": {
+      "translate": "advancements.thewow.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "thewow": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
