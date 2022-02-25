@@ -10,6 +10,7 @@ import net.minecraftforge.event.RegistryEvent;
 
 import net.minecraft.world.item.Item;
 
+import net.mcreator.thetriopack.item.TheGoldBiomeItem;
 import net.mcreator.thetriopack.item.RedLightsaberItem;
 import net.mcreator.thetriopack.item.RedAmethystShardItem;
 import net.mcreator.thetriopack.item.MetalstickItem;
@@ -37,6 +38,7 @@ public class TheTrioPackModItems {
 	public static final Item KFCFRIE = register(new KfcfrieItem());
 	public static final Item KETCHUP = register(new KetchupItem());
 	public static final Item CUTPOTATO = register(new CutpotatoItem());
+	public static final Item THE_GOLD_BIOME = register(new TheGoldBiomeItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

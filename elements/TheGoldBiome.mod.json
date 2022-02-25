@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:TheCursedforest"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.GOLD_BLOCK"
+    },
+    "fluidBlock": {
+      "value": "Blocks.GOLD_BLOCK"
+    },
+    "airColor": {
+      "value": -256,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "Blocks.GOLD_BLOCK"
+    },
+    "portalParticles": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "portalLuminance": 2,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "The Gold dimension Portal Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:TrioItems"
+    },
+    "texture": "gold_dimensionigniter",
+    "portalTexture": "gold_dimension_block",
+    "enablePortal": true
+  }
+}

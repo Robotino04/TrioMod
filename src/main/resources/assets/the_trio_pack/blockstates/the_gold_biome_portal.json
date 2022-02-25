@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "the_trio_pack:block/the_gold_biome_portal_ew"
+    },
+    "axis=x": {
+      "model": "the_trio_pack:block/the_gold_biome_portal_ns"
+    }
+  }
+}
