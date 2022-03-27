@@ -331,28 +331,20 @@
   "variable_elements": [],
   "sound_elements": [
     {
-      "name": "papyrustheme",
+      "name": "papyrusmusic",
       "files": [
-        "onlymp3.net_-_undertale_-_papyrus_theme_song_-_bonetrousle-fezngpthd3m-192k-1637086097945"
+        "undertale_-_papyrus_theme_song_-_bonetrousle"
       ],
       "category": "neutral",
-      "subtitle": "Papyrus Blocks the way"
+      "subtitle": "papyrus blocks the way"
     },
     {
-      "name": "deathsoundpapyrus",
+      "name": "papyrusdeath",
       "files": [
-        "y2mate.is_-_undertale_death_sound_effect-vptasuujhf4-128k-1646428088887"
+        "undertale_death_sound_effect"
       ],
       "category": "neutral",
-      "subtitle": "Papyrus Dying"
-    },
-    {
-      "name": "papyrushurt",
-      "files": [
-        "y2mate.is_-_undertale_sound_effect_-_papyrus-8j-kp7h-s44-128k-1648378525448"
-      ],
-      "category": "neutral",
-      "subtitle": "hurt"
+      "subtitle": ""
     }
   ],
   "language_map": {
@@ -361,6 +353,7 @@
       "subtitles.papyrushurt": "hurt",
       "item.the_trio_pack.metalstick": "Metalstick",
       "subtitles.papyrustheme": "Papyrus Blocks the way",
+      "subtitles.papyrusmusic": "papyrus blocks the way",
       "subtitles.deathsoundpapyrus": "Papyrus Dying",
       "item.the_trio_pack.red_amethyst_shard": "Red Amethyst Shard",
       "item.the_trio_pack.blue_lightsaber": "Blue Lightsaber",
@@ -378,6 +371,8 @@
       "item.the_trio_pack.kfc": "KFC fries",
       "subtitles.theforbiddenrole": "Rick rolled",
       "item.the_trio_pack.kfcbucket": "Kfcbucket",
+      "subtitles.deathsound": "",
+      "subtitles.papyrusdeath": "",
       "item.the_trio_pack.therolling.desc": "DONT",
       "item.the_trio_pack.ketchup": "Ketchup",
       "advancements.thewow.descr": "Are you proud",

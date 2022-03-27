@@ -18,10 +18,8 @@ import java.util.HashMap;
 public class TheTrioPackModSounds {
 	public static Map<ResourceLocation, SoundEvent> REGISTRY = new HashMap<>();
 	static {
-		REGISTRY.put(new ResourceLocation("the_trio_pack", "papyrustheme"), new SoundEvent(new ResourceLocation("the_trio_pack", "papyrustheme")));
-		REGISTRY.put(new ResourceLocation("the_trio_pack", "deathsoundpapyrus"),
-				new SoundEvent(new ResourceLocation("the_trio_pack", "deathsoundpapyrus")));
-		REGISTRY.put(new ResourceLocation("the_trio_pack", "papyrushurt"), new SoundEvent(new ResourceLocation("the_trio_pack", "papyrushurt")));
+		REGISTRY.put(new ResourceLocation("the_trio_pack", "papyrusmusic"), new SoundEvent(new ResourceLocation("the_trio_pack", "papyrusmusic")));
+		REGISTRY.put(new ResourceLocation("the_trio_pack", "papyrusdeath"), new SoundEvent(new ResourceLocation("the_trio_pack", "papyrusdeath")));
 	}
 
 	@SubscribeEvent

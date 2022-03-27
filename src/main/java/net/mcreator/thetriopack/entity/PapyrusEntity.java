@@ -83,17 +83,17 @@ public class PapyrusEntity extends PathfinderMob {
 
 	@Override
 	public SoundEvent getAmbientSound() {
-		return ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("the_trio_pack:papyrustheme"));
+		return ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("the_trio_pack:papyrusmusic"));
 	}
 
 	@Override
 	public SoundEvent getHurtSound(DamageSource ds) {
-		return ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("the_trio_pack:papyrushurt"));
+		return ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation(""));
 	}
 
 	@Override
 	public SoundEvent getDeathSound() {
-		return ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("the_trio_pack:deathsoundpapyrus"));
+		return ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("the_trio_pack:papyrusdeath"));
 	}
 
 	@Override

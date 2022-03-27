@@ -1,0 +1,28 @@
+newmtl gloves
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd the_trio_pack:blocks/gloves
+Ns 100.0
+d 1.0
+newmtl body
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd the_trio_pack:blocks/body
+Ns 100.0
+d 1.0
+newmtl face
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd the_trio_pack:blocks/face
+Ns 100.0
+d 1.0
+newmtl belt
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd the_trio_pack:blocks/belt
+Ns 100.0
+d 1.0
