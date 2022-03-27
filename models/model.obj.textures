@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "face": "face",
+        "gloves": "gloves",
+        "belt": "belt",
+        "body": "body"
+      },
+      "name": "default"
+    }
+  }
+}

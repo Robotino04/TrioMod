@@ -1,11 +1,31 @@
 {
-  "theforbiddenrole": {
-    "category": "music",
-    "subtitle": "subtitles.theforbiddenrole",
+  "papyrustheme": {
+    "category": "neutral",
+    "subtitle": "subtitles.papyrustheme",
     "sounds": [
       {
-        "name": "the_trio_pack:never_gonna_give_you_up_original",
-        "stream": true
+        "name": "the_trio_pack:onlymp3.net_-_undertale_-_papyrus_theme_song_-_bonetrousle-fezngpthd3m-192k-1637086097945",
+        "stream": false
+      }
+    ]
+  },
+  "deathsoundpapyrus": {
+    "category": "neutral",
+    "subtitle": "subtitles.deathsoundpapyrus",
+    "sounds": [
+      {
+        "name": "the_trio_pack:y2mate.is_-_undertale_death_sound_effect-vptasuujhf4-128k-1646428088887",
+        "stream": false
+      }
+    ]
+  },
+  "papyrushurt": {
+    "category": "neutral",
+    "subtitle": "subtitles.papyrushurt",
+    "sounds": [
+      {
+        "name": "the_trio_pack:y2mate.is_-_undertale_sound_effect_-_papyrus-8j-kp7h-s44-128k-1648378525448",
+        "stream": false
       }
     ]
   }

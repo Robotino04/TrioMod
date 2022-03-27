@@ -318,35 +318,73 @@
       "metadata": {
         "ep": true
       }
+    },
+    {
+      "name": "Papyrus",
+      "type": "livingentity",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "papyrus"
     }
   ],
   "variable_elements": [],
-  "sound_elements": [],
+  "sound_elements": [
+    {
+      "name": "papyrustheme",
+      "files": [
+        "onlymp3.net_-_undertale_-_papyrus_theme_song_-_bonetrousle-fezngpthd3m-192k-1637086097945"
+      ],
+      "category": "neutral",
+      "subtitle": "Papyrus Blocks the way"
+    },
+    {
+      "name": "deathsoundpapyrus",
+      "files": [
+        "y2mate.is_-_undertale_death_sound_effect-vptasuujhf4-128k-1646428088887"
+      ],
+      "category": "neutral",
+      "subtitle": "Papyrus Dying"
+    },
+    {
+      "name": "papyrushurt",
+      "files": [
+        "y2mate.is_-_undertale_sound_effect_-_papyrus-8j-kp7h-s44-128k-1648378525448"
+      ],
+      "category": "neutral",
+      "subtitle": "hurt"
+    }
+  ],
   "language_map": {
     "en_us": {
-      "itemGroup.tabtrio_items": "Trio Items",
       "itemGroup.tabtriomobs": "Triomobs",
-      "item.the_trio_pack.redlightsaber": "Red Lightsaber",
+      "subtitles.papyrushurt": "hurt",
       "item.the_trio_pack.metalstick": "Metalstick",
+      "subtitles.papyrustheme": "Papyrus Blocks the way",
+      "subtitles.deathsoundpapyrus": "Papyrus Dying",
+      "item.the_trio_pack.red_amethyst_shard": "Red Amethyst Shard",
+      "item.the_trio_pack.blue_lightsaber": "Blue Lightsaber",
+      "item.the_trio_pack.papyrus_spawn_egg": "Papyrus Spawn Egg",
+      "item.the_trio_pack.blue_amethyst_shard": "Blue Amethyst Shard",
+      "item.the_trio_pack.red_lightsaber": "Red Lightsaber",
+      "biome.the_trio_pack.the_cursedforest": "The Cursedforest",
+      "item.the_trio_pack.redlightsaberworking": "Redlightsaberworking",
+      "itemGroup.tabtrio_items": "Trio Items",
+      "item.the_trio_pack.redlightsaber": "Red Lightsaber",
       "item.the_trio_pack.kfcfrie": "Kfcfrie",
       "itemGroup.tabtrio_tools": "Trio Tools",
       "itemGroup.tabtrioores": "Trioores",
       "item.the_trio_pack.the_gold_biome": "The Gold dimension Portal Igniter",
-      "item.the_trio_pack.red_amethyst_shard": "Red Amethyst Shard",
       "item.the_trio_pack.kfc": "KFC fries",
       "subtitles.theforbiddenrole": "Rick rolled",
-      "item.the_trio_pack.blue_lightsaber": "Blue Lightsaber",
       "item.the_trio_pack.kfcbucket": "Kfcbucket",
       "item.the_trio_pack.therolling.desc": "DONT",
       "item.the_trio_pack.ketchup": "Ketchup",
-      "item.the_trio_pack.blue_amethyst_shard": "Blue Amethyst Shard",
-      "item.the_trio_pack.red_lightsaber": "Red Lightsaber",
-      "item.the_trio_pack.cutpotato": "Cutpotato",
       "advancements.thewow.descr": "Are you proud",
-      "biome.the_trio_pack.the_cursedforest": "The Cursedforest",
+      "item.the_trio_pack.cutpotato": "Cutpotato",
       "item.the_trio_pack.therolling": "Therolling",
-      "item.the_trio_pack.redlightsaberworking": "Redlightsaberworking",
-      "advancements.thewow.title": "Wow you did it ._."
+      "advancements.thewow.title": "Wow you did it ._.",
+      "entity.the_trio_pack.papyrus": "Papyrus"
     }
   },
   "foldersRoot": {

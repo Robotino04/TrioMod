@@ -8,6 +8,7 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.event.RegistryEvent;
 
+import net.minecraft.world.item.SpawnEggItem;
 import net.minecraft.world.item.Item;
 
 import net.mcreator.thetriopack.item.TheGoldBiomeItem;
@@ -39,6 +40,9 @@ public class TheTrioPackModItems {
 	public static final Item KETCHUP = register(new KetchupItem());
 	public static final Item CUTPOTATO = register(new CutpotatoItem());
 	public static final Item THE_GOLD_BIOME = register(new TheGoldBiomeItem());
+	public static final Item PAPYRUS = register(
+			new SpawnEggItem(TheTrioPackModEntities.PAPYRUS, -1, -65536, new Item.Properties().tab(TheTrioPackModTabs.TAB_TRIOMOBS))
+					.setRegistryName("papyrus_spawn_egg"));
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);
